@@ -4,7 +4,7 @@ This repository contains the R script used to perform the statistical analyses r
 
 ## Repository Structure
 
-- **Main_Analysis.R** – Fully annotated R script implementing all statistical analyses described in the manuscript.
+- **main_analysis.R** – Fully annotated R script implementing all statistical analyses described in the manuscript.
 
 ## Study Overview
 
